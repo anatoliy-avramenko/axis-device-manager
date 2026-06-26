@@ -43,7 +43,7 @@ Concretely, Claude wrote the GraphQL type definitions, resolvers, auth layer, an
 I however do own the delivered output, understand, could explain, extend, or debug any part of it.
 
 
-=====================================    _End of Anatolii's comments_    ========================================
+============    _End of Anatolii's comments_    ==============
 
 ## Getting started
 
